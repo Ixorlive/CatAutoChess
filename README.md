@@ -1,8 +1,6 @@
 Игра “Battle Cats”
 =====================
-**Game-Project** by Igor Shakirov, Danil Tereshin, Igor Tishalovich, Julião Gime
-
-![Image alt](http://immage.biz/images/2019/12/25/SnsH.png)
+**Game-Project** by ixorlive. Helped by Danil Tereshin (sprites, rules description), Igor Tishalovich (Pictures of kittens)
 
 **ПРАВИЛА ИГРЫ Battle Cats:**
 ***
